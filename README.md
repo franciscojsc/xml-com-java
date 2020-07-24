@@ -1,9 +1,10 @@
-![Image](https://franciscojava.files.wordpress.com/2017/02/xstream.gif?w=620)
+# :tada: XML com Java :tada:
 
-## Desenvolvido por [Francisco Chaves](http://www.franciscochaves.com.br)
+XML com Java, utilizando a biblioteca [XStream][site-xstream].
 
-# [XML com Java](https://franciscojava.wordpress.com/2017/02/12/xml-com-java/)
+![XStream](xstream.gif)
 
-XML com Java, utilizando a biblioteca **XStream**.
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Para conhecer mais sobre programação e tecnologia acesse: [http://www.franciscochaves.com.br](http://www.franciscochaves.com.br)
+[site-xstream]: https://x-stream.github.io
